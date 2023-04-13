@@ -11,10 +11,10 @@ const config = {
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
-  url: 'https://schluckauf-weg.github.io/DeutscherGrammatik.github.io/',
+  url: 'https://schluckauf-weg.github.io',
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: '/',
+  baseUrl: '/DeutscheGrammatik.github.io/',
   trailingSlash: false,
 
   // GitHub pages deployment config.
