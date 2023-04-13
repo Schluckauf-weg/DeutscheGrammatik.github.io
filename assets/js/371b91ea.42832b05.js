@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdeutsche_grammatik=self.webpackChunkdeutsche_grammatik||[]).push([[442],{3769:e=>{e.exports=JSON.parse('{"name":"docusaurus-plugin-content-docs","id":"default"}')}}]);
