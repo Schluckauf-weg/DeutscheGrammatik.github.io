@@ -8,7 +8,7 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: '简明德语语法',
   tagline: 'Deutsche Grammatik',
-  favicon: 'img/de-c.png',
+  favicon: 'img/de-c.ico',
 
   // Set the production url of your site here
   url: 'https://schluckauf-weg.github.io',
@@ -60,7 +60,7 @@ const config = {
       navbar: {
         title: '',
         logo: {
-          alt: 'My Site Logo',
+          alt: 'DG Logo',
           src: 'img/de-s.png',
         },
         items: [
