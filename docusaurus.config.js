@@ -71,7 +71,7 @@ const config = {
             label: 'Tutorial',
           },
           {
-            href: 'https://github.com/Schluckauf-weg/DeutscherGrammatik.github.io.git',
+            href: 'https://github.com/Schluckauf-weg/DeutscheGrammatik.github.io.git',
             label: 'GitHub',
             position: 'right',
           },
