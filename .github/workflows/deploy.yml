@@ -17,8 +17,7 @@ jobs:
           cache: npm
 
       - name: Install dependencies
-        run: npm ci
-        run: npm install --save @easyops-cn/docusaurus-search-local
+        run: npm ci && npm install --save @easyops-cn/docusaurus-search-local
       - name: Build website
         run: npm run build
 
