@@ -80,6 +80,8 @@ const config = {
     }),
 };
 
+module.exports = config;
+
 module.exports = {
   // ... Your other configurations.
   themes: [
@@ -100,4 +102,4 @@ module.exports = {
   ],
 }
 
-module.exports = config;
+
