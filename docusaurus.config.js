@@ -78,12 +78,9 @@ const config = {
         ],
       },
     }),
-};
-
-module.exports = {
-    plugins: [[ require.resolve('docusaurus-lunr-search'), {
+	plugins: [[ require.resolve('docusaurus-lunr-search'), {
       languages: ['en', 'de', 'zh'] // language codes
     }]],
-}
+};
 
 module.exports = config;
