@@ -51,9 +51,14 @@ const config = {
       }),
     ],
   ],
-  plugins: [[ require.resolve('docusaurus-lunr-search'), {
-      languages: ['zh', 'de'] // language codes
-    }]],
+  plugins: [
+		[
+			require.resolve('docusaurus-lunr-search'), 
+			{
+				languages: ['zh', 'de'],
+			},
+		],
+	],
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
