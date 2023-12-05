@@ -77,10 +77,15 @@ const config = {
           },
         ],
       },
-	  plugins: [[ require.resolve('docusaurus-lunr-search'), {
-      languages: ['de', 'zh'] // language codes
-    }]],
     }),
+	plugins: [
+		[
+			require.resolve('docusaurus-lunr-search'),
+			{
+				languages: ['de', 'zh'],
+			},
+		],
+	],
 };
 
 module.exports = config;
