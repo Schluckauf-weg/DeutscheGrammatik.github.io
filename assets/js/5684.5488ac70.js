@@ -1,1 +1,0 @@
-(self.webpackChunkdeutsche_grammatik=self.webpackChunkdeutsche_grammatik||[]).push([[5684],{9039:(e,s,a)=>{"use strict";a.d(s,{Z:()=>c});var t=a(1336);const c=t},5525:()=>{}}]);
